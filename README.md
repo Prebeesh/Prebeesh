@@ -1,11 +1,5 @@
-👋 Hi, I’m @Prebeesh
+Software engineer
 
-Software engineer from Kerala, India.
-I am here to learn and help others to learn.
-        
-Welcome 
+https://www.linkedin.com/in/prebeesh-surendran-581136153 
 
-
-📫 How to reach me : 
-      LinkedIn - https://www.linkedin.com/in/prebeesh-surendran-581136153 
-      Email - prebeesh1427@gmail.com 
+prebeesh.surendran@gmail.com 
